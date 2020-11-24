@@ -1,6 +1,6 @@
 include $(TOPDIR)/rules.mk
 
-PKG_NAME:=dnsforwarder
+PKG_NAME:=dns-forwarder
 PKG_VERSION:=6
 PKG_RELEASE:=3
 
