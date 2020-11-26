@@ -58,4 +58,4 @@ define Package/dnsforwarder/install
 	$(CP) ./files/* $(1)/
 endef
 
-$(eval $(call BuildPackage,dnsforwarder))
+$(eval $(call BuildPackage,dns-forwarder))
